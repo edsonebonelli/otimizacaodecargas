@@ -1,7 +1,6 @@
 <h1>Otimização de Cargas</h1>
 
-<p>Olá venho apresentar um projeto de otimização usando Algoritmos Genéticos a ideia foi por em pratica o conteúdo da seção Algoritmos e Machine Learning do curso de Python e Banco de Dados.
-O projeto tem como objetivo trabalhar com a resolução de um problema de otimização de carga utilizando algoritmos genéticos.</p>
+<p>Olá venho apresentar um projeto de otimização usando Algoritmos Genéticos a ideia foi por em pratica o conteúdo da seção Algoritmos e Machine Learning do curso de Python e Banco de Dados.</p>
 
 <h1> Oque está sendo trabalhado 🚧 </h1>
 
