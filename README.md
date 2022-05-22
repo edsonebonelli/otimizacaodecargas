@@ -5,9 +5,9 @@ O projeto tem como objetivo trabalhar com a resolução de um problema de otimiz
 
 <h1> Oque está sendo trabalhado 🚧 </h1>
 
-<p>-Foi criado a seguinte situação:</p>
-<p>-Vamos considerar que temos uma transportadora e temos diferentes tipos de produtos que passam pela empresa diariamente, tais como geladeira, fogão, celulares, TV's etc. Analisando esses dados e as rotas que um determinado caminhão vai fazer, eu preciso fazer com que o caminhão leve mais produtos assim melhorando meu lucro em apenas um frete.</p>
-<p>-Com isso tenho os seguintes dados: nome do produto, espaço ocupado por esse produto, valor do produto. Limite máximo a utilizar do caminhão 3 m³.</p>
+<p>Foi criado a seguinte situação:</p>
+<p>Vamos considerar que temos uma transportadora e temos diferentes tipos de produtos que passam pela empresa diariamente, tais como geladeira, fogão, celulares, TV's etc. Analisando esses dados e as rotas que um determinado caminhão vai fazer, eu preciso fazer com que o caminhão leve mais produtos assim melhorando meu lucro em apenas um frete.</p>
+<p>Com isso tenho os seguintes dados: nome do produto, espaço ocupado por esse produto, valor do produto. Limite máximo a utilizar do caminhão 3 m³.</p>
 
 <h1> Técnologias Usada 💻 </h1>
 
